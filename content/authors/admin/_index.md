@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Dr Michael Birrer's lab.
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Alabama at Birmingham
   url: ""
-- name: UAB Medical Scientist Training Program
+- name: Medical Scientist Training Program
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,7 +46,7 @@ social:
   link: https://twitter.com/dbrooke1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&user=Z9Z7ceYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/dbrookeUAB
