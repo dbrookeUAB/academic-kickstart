@@ -43,13 +43,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:dbrooke@uab.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dbrooke1
+  link: https://twitter.com/deweybrooke1
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=en&user=Z9Z7ceYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/dbrookeUAB
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/dbrookeUAB
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
