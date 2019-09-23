@@ -1,0 +1,7 @@
+{{ $cols := split .Content "<split>" }}
+
+{{ range $cols }}
+   <div class="content-column">
+   {{ . }}
+   </div>
+{{ end }}

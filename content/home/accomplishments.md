@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -25,6 +25,28 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.sololearn.com"
   date_start = "2018-05-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Phi Kappa Phi"
+  title = "Outstanding Senior"
+  url = ""
+  date_start = "2012-04-01"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "Lewis H. McRoberts Award"
+  title = "Outstanding Junior in Biochemistry"
+  url = ""
+  date_start = "2011-04-01"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "McNair Scholars Program"
+  title = "1st Place Oral Presenter"
+  url = ""
+  date_start = "2011-04-01"
   date_end = ""
   description = ""
 
