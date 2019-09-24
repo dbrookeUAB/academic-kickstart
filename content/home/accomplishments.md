@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplishments"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -30,24 +30,31 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Phi Kappa Phi"
+  organization_url = ""
   title = "Outstanding Senior"
   url = ""
+  certificate_url = ""
   date_start = "2012-04-01"
   date_end = ""
   description = ""
+  
 [[item]]
   organization = "Lewis H. McRoberts Award"
+  organization_url = ""
   title = "Outstanding Junior in Biochemistry"
   url = ""
+  certificate_url = ""
   date_start = "2011-04-01"
   date_end = ""
   description = ""
+  
 [[item]]
   organization = "McNair Scholars Program"
+  organization_url = ""
   title = "1st Place Oral Presenter"
   url = ""
+  certificate_url = ""
   date_start = "2011-04-01"
   date_end = ""
   description = ""
-
 +++
