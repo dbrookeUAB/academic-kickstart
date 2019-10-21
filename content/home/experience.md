@@ -70,5 +70,14 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2019-09-20"
   description = """"""
+  
+[[experience]]
+  title = "Graduate School"
+  company = "Troy Randall PhD"
+  company_url = ""
+  location = "University of Alabama at Birmingham"
+  date_start = "2019-10-14"
+  date_end = "Present"
+  description = """"""
 
 +++
