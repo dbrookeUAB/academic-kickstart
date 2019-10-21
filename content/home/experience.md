@@ -77,7 +77,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "University of Alabama at Birmingham"
   date_start = "2019-10-14"
-  date_end = "Present"
+  date_end = ""
   description = """"""
-
 +++
