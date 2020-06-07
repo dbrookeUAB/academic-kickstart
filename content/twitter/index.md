@@ -14,7 +14,7 @@ subtitle = ""
 weight = 50
 +++
 
-<blockquote class="twitter-timeline"><a class="twitter-timeline" data-height='400' href="https://twitter.com/DeweyBrooke1/likes?ref_src=twsrc%5Etfw" data-aria-polite="assertive"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-timeline"><a class="twitter-timeline" data-height='1200' href="https://twitter.com/DeweyBrooke1/likes?ref_src=twsrc%5Etfw" data-aria-polite="assertive"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
