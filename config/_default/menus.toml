@@ -34,3 +34,8 @@
    name = "CV"
    url = "files/cv.pdf"
    weight = 70
+
+[[main]]
+  name = "Likes on Twitter"  # A link title for your page.
+  url = "twitter/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
