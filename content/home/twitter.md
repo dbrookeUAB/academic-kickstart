@@ -8,11 +8,10 @@ date = 2019-05-22T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 # title = "Moments"
-# subtitle = ""
+# subtitle = "test"
 
 # Order that this section will appear in.
 weight = 70
 +++
 
-
-<blockquote class="twitter-tweet"><a class="twitter-timeline" data-height='400' href="https://twitter.com/DeweyBrooke1/likes?ref_src=twsrc%5Etfw" data-aria-polite="assertive"></a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class=article-container><div class=article-style itemprop=articleBody><p><blockquote class=twitter-timeline><a class=twitter-timeline data-height=400 href="https://twitter.com/DeweyBrooke1/likes?ref_src=twsrc%5Etfw" data-aria-polite=assertive></a></blockquote><script async src=https://platform.twitter.com/widgets.js></script></p></div></div>
